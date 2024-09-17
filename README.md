@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 
 
-Hi! I am Ziouche Maroua,  a third-year Cyber Security student at USTHB . I'm also a passionate Full Stack Developer with a focus on JavaScript technologies.
+Hi, I am Ziouche Maroua, a third-year Cyber Security student at USTHB. I am also a passionate junior Full Stack Developer, focusing on JavaScript technologies.
 
 ## 🛠️ Technologies :
 - **Languages:**  JavaScript, Python
