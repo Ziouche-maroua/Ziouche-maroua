@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 
 
 Hi! I am Ziouche Maroua,  a third-year Cyber Security student at USTHB . I'm also a passionate Full Stack Developer with a focus on JavaScript technologies.
 
-## 🛠️ Technologies I Work With:
+## 🛠️ Technologies :
 - **Languages:** C, JavaScript, Python
 - **Frontend:** HTML, CSS, React, Tailwind CSS
 - **Backend:** Node.js, Express
@@ -20,7 +20,7 @@ Hi! I am Ziouche Maroua,  a third-year Cyber Security student at USTHB . I'm als
 - Building full-stack applications with modern web technologies.
 
 ## 📫 How to Reach Me:
-- in/maroua-ziouche-a5685a25b
+- [in/maroua-ziouche-a5685a25b](https://www.linkedin.com/in/maroua-ziouche-a5685a25b/)
 - ziouchemaroua1@gmail.com
 
 
