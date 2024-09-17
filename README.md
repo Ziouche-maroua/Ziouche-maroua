@@ -3,7 +3,7 @@
 Hi! I am Ziouche Maroua,  a third-year Cyber Security student at USTHB . I'm also a passionate Full Stack Developer with a focus on JavaScript technologies.
 
 ## 🛠️ Technologies :
-- **Languages:** C, JavaScript, Python
+- **Languages:**  JavaScript, Python
 - **Frontend:** HTML, CSS, React, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB
