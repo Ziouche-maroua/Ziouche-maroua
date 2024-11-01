@@ -1,10 +1,10 @@
 Hi, I am Ziouche Maroua, a third-year Computer Science student at USTHB. I am also a passionate junior Full Stack Developer, focusing on JavaScript technologies.
 
 ## 🛠️ Technologies :
-- **Languages:**  JavaScript, Python
+- **Languages:**  JavaScript, TypeScript, Python
 - **Frontend:** HTML, CSS, React, Tailwind CSS
 - **Backend:** Node.js, Express
-- **Databases:** MongoDB
+- **Databases:** MongoDB,Postgres
 - **API Tools:** RESTful API, GraphQL (with Apollo)
 - **Data Analysis (Beginner):** NumPy, Pandas, Matplotlib, Seaborn
 
