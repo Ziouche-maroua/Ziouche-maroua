@@ -6,7 +6,7 @@ Hi, I am Ziouche Maroua, a third-year Computer Science student at USTHB. I am al
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB,Postgres
 - **API Tools:** RESTful API, GraphQL (with Apollo)
-- **Data Analysis (Beginner):** NumPy, Pandas, Matplotlib, Seaborn
+
 
 ## 🌱 Currently Learning:
 - Web scraping with Python 🕸️
