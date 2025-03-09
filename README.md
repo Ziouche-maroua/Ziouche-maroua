@@ -2,16 +2,15 @@ Hi, I am Ziouche Maroua, a third-year Computer Science student at USTHB. I am al
 
 ## 🛠️ Technologies :
 - **Languages:**  JavaScript, TypeScript, Python
-- **Frontend:** HTML, CSS, React, Tailwind CSS
+- **Frontend:** HTML, CSS, React, Tailwind CSS, Next.js
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB,Postgres
 - **API Tools:** RESTful API, GraphQL (with Apollo)
 
 
 ## 🌱 Currently Learning:
-- Web scraping with Python 🕸️
-- Next.js
-- Exploring Redux and Redis for state management and caching 🔧
+- Web scraping with Python 
+- Exploring Redux and Redis for state management and caching 
 
 ## 🔭 What I'm Working On:
 - Mastering my web scraping skills using Python.
