@@ -8,13 +8,7 @@ Hi, I am Ziouche Maroua, a third-year Computer Science student at USTHB. I am al
 
 
 
-## 🌱 Currently Learning:
-- Web scraping with Python 
-- Exploring Redux and Redis for state management and caching 
 
-## 🔭 What I'm Working On:
-- Mastering my web scraping skills using Python.
-- Building full-stack applications with modern web technologies.
 
 ## 📫 How to Reach Me:
 - [in/maroua-ziouche-a5685a25b](https://www.linkedin.com/in/maroua-ziouche-a5685a25b/)
