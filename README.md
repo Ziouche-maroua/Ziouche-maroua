@@ -5,7 +5,7 @@ Hi, I am Ziouche Maroua, a third-year Computer Science student at USTHB. I am al
 - **Frontend:** HTML, CSS, React, Tailwind CSS, Next.js
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB,Postgres
-- **API Tools:** RESTful API, GraphQL (with Apollo)
+
 
 
 ## 🌱 Currently Learning:
