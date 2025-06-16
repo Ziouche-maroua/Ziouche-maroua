@@ -1,4 +1,5 @@
-Hi, I am Ziouche Maroua, a third-year Computer Science student at USTHB. I am also a passionate junior Full Stack Developer, focusing on JavaScript technologies.
+Hello, I am Ziouche Maroua, a fourth-year Cyber Security student at USTHB. I am an enthusiastic beginner in CTF challenges, actively exploring web exploitation, cryptography, and forensics. Additionally, I am a passionate junior Full Stack Developer, focusing on JavaScript technologies .
+
 
 ## 🛠️ Technologies :
 - **Languages:**  JavaScript, TypeScript, Python
