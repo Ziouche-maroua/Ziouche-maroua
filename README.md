@@ -1,4 +1,4 @@
-Hello, I am Ziouche Maroua, a fourth-year Cyber Security student at USTHB. I am an enthusiastic beginner in CTF challenges, actively exploring web exploitation, cryptography, and forensics. Additionally, I am a passionate Wev Developer, focusing on JavaScript technologies .
+Hello, I am Ziouche Maroua, a fourth-year Cyber Security student at USTHB. I am an enthusiastic beginner in CTF challenges, actively exploring web exploitation, cryptography, and forensics. Additionally, I am a passionate Web Developer, focusing on JavaScript technologies .
 
 
 ## 🛠️ Technologies :
